@@ -113,14 +113,14 @@ select * from usuario order by usu_cc asc;
 select  veh_placa, veh_marca, veh_modelo from vehiculo where veh_anhio>2015 order by veh_marca;
 
 
-#5.3 Mostrar la información de los conductores del vehículo con placa PET 363
+#5.3 Retrieve the information of the drivers (conductores) of the car with number "PET 363"
 #Select 'Consulta 3';
 select usu_cc, usu_nombre, usu_apellido, usu_email from conductor natural join usuario where conductor.veh_placa = "PET 363";
 
-#5.4 Mostrar la información de los vehiculos ( solo la placa) en los que ha viajado el usuario con cc 64588522
+#5.4 Retrieve the number(veh_placa) information of the drivers (conductores) with who has the user with number identificaiton 64588522
 #Select 'Consulta 4';
 select veh_placa from usuario natural join viaje join conductor on viaje.con_cc=conductor.usu_cc natural join vehiculo where usuario.usu_cc=64588522;
 
-#5.5 Mostrar cuantos vehículos tienen más de 120000 kilometros
+#5.5 Retrieve the information of how many cars (vehículos) has more than 120000 km
 #Select 'Consulta 5';
 select count(*) from vehiculo where veh_kilometros > 120000;
