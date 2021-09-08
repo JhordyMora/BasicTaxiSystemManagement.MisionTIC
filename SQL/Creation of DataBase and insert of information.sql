@@ -4,13 +4,13 @@ use taxis;
 
 ####1. Creation of Vehiculos Database and data insertion
 create table if not exists vehiculo(
-	`veh_placa` char(7) not null,
-    `veh_marca` char(15) not null,
-    `veh_modelo` char(15) not null,
-    `veh_anhio` smallint(6) not null,
-    `veh_capacidad` tinyint(4) not null,
-    `veh_color` char(15) not null,
-	`veh_kilometros` int(11) not null,
+		`veh_placa` char(7) not null,
+		`veh_marca` char(15) not null,
+		`veh_modelo` char(15) not null,
+		`veh_anhio` smallint(6) not null,
+		`veh_capacidad` tinyint(4) not null,
+		`veh_color` char(15) not null,
+		`veh_kilometros` int(11) not null,
     primary key (`veh_placa`)	
 );
 insert into vehiculo values ("KLM 565","Chevrolet","spark",2015,5,"amarillo",120000);
