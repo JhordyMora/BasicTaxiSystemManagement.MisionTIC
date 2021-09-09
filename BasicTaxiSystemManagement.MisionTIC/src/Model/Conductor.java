@@ -3,6 +3,11 @@ package Model;
 public class Conductor {
     private int usuCC;
     private String vehPlaca;
+    
+    public Conductor(int usuCC, String vehPlaca){
+        this.usuCC = usuCC;
+        this.vehPlaca = vehPlaca;
+    }
 
     public int getUsuCC() {
         return usuCC;
