@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/jhoal/Documents/BasicTaxiSystemManagement.MisionTIC/BasicTaxiSystemManagement.MisionTIC/src/basictaxisystemmanagement/misiontic/BasicTaxiSystemManagementMisionTIC.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/Canvas.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Access/GeneralDAO.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/View.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Model/Usuario.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/BasicStructure.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Utils/ConnectionDB.java</file>
         </group>
     </open-files>
 </project-private>
