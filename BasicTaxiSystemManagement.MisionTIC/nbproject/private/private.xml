@@ -3,10 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/Canvas.java</file>
             <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Access/GeneralDAO.java</file>
             <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/View.java</file>
             <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/BasicStructure.java</file>
+=======
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Access/GeneralDAO.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/View.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Model/Usuario.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/View/BasicStructure.java</file>
+            <file>file:/C:/Users/jhoal/Documents/NetBeansProjects/BasicTaxiSystemManagement.MisionTIC/src/Utils/ConnectionDB.java</file>
+>>>>>>> d2101cca49f36732f70f49922eebef278602415c
         </group>
     </open-files>
 </project-private>
